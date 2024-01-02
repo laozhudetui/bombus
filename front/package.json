@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "@tinymce/tinymce-vue": "^3.2.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "tinymce": "^5.3.2",
     "view-design": "^4.0.1",
     "vue": "^2.5.16",
