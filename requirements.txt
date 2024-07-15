@@ -28,3 +28,4 @@ django-redis==4.12.1
 django-braces==1.14.0
 djangorestframework==3.11.1
 django-rest-framework-mongoengine==3.4.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
